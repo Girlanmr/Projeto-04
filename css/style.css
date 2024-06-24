@@ -253,7 +253,14 @@ section.tratamentos > .container{
 	color: #b4b4b4;
 }
 
-
+section.depoimentos > h2{
+	color: #698293;
+	text-align: center;
+	font-size: 18px;
+}
+section.depoimentos > .container{
+	padding: 70px 0;
+}
 
 @media screen and (max-width: 768px){
 
