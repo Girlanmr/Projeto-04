@@ -277,6 +277,12 @@ section.depoimentos .depoimento-single{
 	height: 32px;
 	border-radius: 16px;
 }
+.nome-depoimento span{
+	font-size: 13px;
+	color: #b4b4b4;
+	display: inline-block;
+	vertical-align: top;
+}
 
 @media screen and (max-width: 768px){
 
